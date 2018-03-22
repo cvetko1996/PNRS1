@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="chat_app">Chat App!</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="or">OR</string>
+    <string name="button">Button</string>
+    <string name="btn">Log In</string>
+    <string name="register">Register</string>
+    <string name="enter_your_new_password">Enter your new password</string>
+    <string name="enter_your_last_name">Enter your last name</string>
+    <string name="enter_your_first_name">Enter your first name</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="your_gender">Your Gender:</string>
+    <string name="get_notifications">Get Notifications</string>
+    <string name="asd">Register</string>
+    <string name="textview">TextView</string>
+    <string name="log_out">Log Out</string>
+    <string name="chat_bots">Chat Bot</string>
+    <string name="log_outs">Log Out</string>
+</resources>
